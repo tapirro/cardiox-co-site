@@ -643,6 +643,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/acido-urico-alto/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/aneurisma-prevencion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/angina-de-pecho/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -656,6 +668,12 @@
   </url>
   <url>
     <loc>https://cardiox.co/condiciones/arteriosclerosis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/aterosclerosis-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -703,6 +721,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/enfermedad-vascular-periferica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/estres-y-corazon/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -721,6 +745,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/insuficiencia-cardiaca-apoyo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/insuficiencia-cardiaca/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -734,6 +764,12 @@
   </url>
   <url>
     <loc>https://cardiox.co/condiciones/mareos-por-presion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/palpitaciones-nocturnas/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -769,6 +805,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/prevencion-de-trombosis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/resistencia-a-la-insulina/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/retencion-de-liquidos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -776,6 +824,12 @@
   </url>
   <url>
     <loc>https://cardiox.co/condiciones/sindrome-metabolico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/soplo-cardiaco/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -803,47 +857,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/prevencion-de-trombosis/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/resistencia-a-la-insulina/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/palpitaciones-nocturnas/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/enfermedad-vascular-periferica/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/acido-urico-alto/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/soplo-cardiaco/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/condiciones/aneurisma-prevencion/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
