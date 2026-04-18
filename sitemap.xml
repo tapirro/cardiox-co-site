@@ -493,6 +493,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/ingrediente/cromo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/ingrediente/curcuma/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -501,6 +507,12 @@
   <url>
     <loc>https://cardiox.co/ingrediente/espino-blanco/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/ingrediente/hierro/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -519,6 +531,12 @@
   <url>
     <loc>https://cardiox.co/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/ingrediente/niacina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -567,6 +585,12 @@
   <url>
     <loc>https://cardiox.co/ingrediente/te-verde/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/ingrediente/vitamina-b1/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -727,6 +751,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/aneurisma-aortico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/aneurisma-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -765,6 +795,12 @@
   <url>
     <loc>https://cardiox.co/condiciones/aterosclerosis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/bradicardia/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -961,6 +997,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.co/condiciones/dislipidemia-cardiovascular/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.co/condiciones/dislipidemia-mixta/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -969,6 +1011,18 @@
   <url>
     <loc>https://cardiox.co/condiciones/dolor-de-cabeza-por-presion/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/edema-periferico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/enfermedad-arterial-periferica/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -993,6 +1047,12 @@
   <url>
     <loc>https://cardiox.co/condiciones/fibrilacion-auricular-co/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.co/condiciones/fibrilacion-auricular/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1265,29 +1325,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.co/ingrediente/niacina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/ingrediente/vitamina-b1/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/ingrediente/hierro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.co/ingrediente/cromo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
